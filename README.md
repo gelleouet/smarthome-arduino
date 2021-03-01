@@ -1,5 +1,7 @@
 ## smarthome-arduino
 
+Projet PlatformIO
+
 Contrôleur entrée/sortie avec implémentations :  
 
 * Porte de garage :  
